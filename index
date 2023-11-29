@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>The Tasty Table</title>
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href=".css">
+</head>
+
+<body>
+  <header>
+    <img src="images/tastytable.png" alt="Tasty Table Logo" height="80" >
+  
+  </header>
+  <nav id="nav_menu">
+    <ul>
+      <li><a href="index.html" class="current">Home</a></li>
+      <li><a href="recipes.html">Recipes</a></li>
+        <ul>
+        <li>Appetizers</li>
+        <li>Entrees</li>
+        <li>Desserts</li>
+    </ul>
+      <li><a href="cuisines.html">Cuisines</a></li>
+        <ul>
+          <li>Indian</li>
+          <li>Italian</li>
+          <li>Mexican</li>
+        </ul>
+      <li><a href="aboutus.html">About Us</a></li>
+      <li><a href="contact.html">Contact</a>
+
+
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Appetizers</h2>
+      <img src="images/beandip.png" alt="Bean Dip" height="80" >
+      <img src="images/tostadas.png" alt="Tostadas" height="80" >
+      <img src="images/chilipaneer.png" alt="Chili Paneer" height="80" >
+
+      <h2>Entrees</h2>
+      <img src="images/pasta.png" alt="Pasta" height="80" >
+      <img src="images/paneer.png" alt="Paneer Masala" height="80" >
+      <img src="images/Ravioli.png" alt="Ravioli" height="80" >
+
+      <h2>Desserts</h2>
+      <img src="images/nutellapudding.png" alt="Nutella Pudding" height="80" >
+      <img src="images/chocolatecake.png" alt="Chocolate Cake" height="80" >
+      <img src="images/cheesecake.png" alt="Mango Cheescake Cups" height="80" >
+
+    </section>
+  </main>
